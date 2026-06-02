@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hey there! 👋
 
-<!--
-**corecrusher/corecrusher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Zorp**, a Minecraft Developer.
 
-Here are some ideas to get you started:
+I build custom Paper plugins, server systems, and performance optimizations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main stack is Java, Paper API, Git, and IntelliJ IDEA.
+
+I'm currently working on Minecraft plugins, PvP systems, and server development projects.
+
+I've worked on Lifesteal, BoxPvP, custom features, and server optimization.
+
+### Tools I Use
+
+- Java
+- Paper API
+- IntelliJ IDEA
+- Git
+- Skript
+
+### How To Reach Me
+
+- Discord: `zorp`
+- GitHub: `Zorp`
+
+### Fun Facts
+
+- I enjoy building Minecraft systems
+- I like solving performance issues
+- Always learning new development techniques
+
+**Open for commissions.**
