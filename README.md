@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm **Zorp**, a Minecraft Developer.
+I'm **Core**, a Minecraft Developer.
 
 I build custom Paper plugins, server systems, and performance optimizations.
 
