@@ -1,5 +1,36 @@
-# 💫 About Me:
-# Hey there! 👋<br><br>I'm **C0r3**, a Minecraft Developer.<br><br>I build custom Paper plugins, server systems, and performance optimizations.<br><br>My main stack is Java, Paper API, Git, and IntelliJ IDEA.<br><br>I'm currently working on Minecraft plugins, PvP systems, and server development projects.<br><br>I've worked on Lifesteal, BoxPvP, custom features, and server optimization.<br><br>### Tools I Use<br><br>- Java<br>- Paper API<br>- IntelliJ IDEA<br>- Git<br>- Skript<br><br>### How To Reach Me<br><br>- Discord: `corecrusher_`<br>- GitHub: `corecrusher`<br><br>### Fun Facts<br><br>- I enjoy building Minecraft systems<br>- I like solving performance issues<br>- Always learning new development techniques<br><br>**Open for commissions.**
+# Hey there! 👋
+
+I'm **C0r3**, a Minecraft Developer.
+
+I build custom Paper plugins, server systems, and performance optimizations.
+
+My main stack is Java, Paper API, Git, and IntelliJ IDEA.
+
+I'm currently working on Minecraft plugins, PvP systems, and server development projects.
+
+I've worked on Lifesteal, BoxPvP, custom features, and server optimization.
+
+### Tools I Use
+
+- Java
+- Paper API
+- IntelliJ IDEA
+- Git
+- Skript
+
+### How To Reach Me
+
+- Discord: `corecrusher_`
+- GitHub: `corecrusher`
+
+### Fun Facts
+
+- I enjoy building Minecraft systems
+- I like solving performance issues
+- Always learning new development techniques
+
+**Open for commissions.**
+
 
 
 ## 🌐 Socials:
